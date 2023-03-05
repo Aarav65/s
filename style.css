@@ -1,0 +1,107 @@
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 9px;
+}
+
+.contact1 h3
+{
+    display: inline;
+}
+.contact1 a
+{
+    text-shadow: none;
+}
+#footer{
+  height: 20px;
+  background-color:white;
+  }
+
+input{
+    background: red;
+}
+
+.announcement{
+background-color:#337ab7;
+width: 100%;
+height: 30px;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:100px;
+  color: beige;
+  font-size:120%;
+}
+
+#v{
+  width:100%;
+  height:500px;
+  border: none;
+}
+#h{
+    width: 1960px;
+    height: 348px;
+}
+
+.row::after{
+    clear: both;
+    display: table;
+}
+.travel_mainDiv{
+    float: left;
+    width: 45.45%;
+    padding: 5px;
+    border: 2px solid red;
+}
+.diwali_li {
+    margin-top: 13px;
+}
+
+.diwali_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.diwali_li img {
+    border-radius: 25px;
+}
+
+.diwali_li p {
+    margin-top: 10px;
+}
+#ww{
+  width: 460px;
+  height: 250px;
+} 
+#cele{
+    margin-top: 600px;
+}
+
+.header_entrepreneur{
+    line-height: 2;
+}
+
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+    text-align: center;
+}
